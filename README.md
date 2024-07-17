@@ -9,7 +9,7 @@ A repository of my `academic life`, the `courses` I have taken, the `certificate
 - [Courses](#courses)
 
 ## Academic Education <a name="education"></a> 🎓
-- `Bachelor of Science in Computer Engineering` - Southern Leyte State University [(SLSU)](https://www.southernleytestateu.edu.ph/index.php/en/). 2019-2023. 📎file 
+- `Bachelor of Science in Computer Engineering` - Southern Leyte State University [(SLSU)](https://www.southernleytestateu.edu.ph/index.php/en/). 2019-2023. [📎file](certificates/collegeCertificate.png)
 - `Science and Technology, Engineering and Mathematics` - Saint James College of Padre Burgos Southern Leyte, Inc. [(SJCPBSLI)](https://www.facebook.com/stjamescollegeofpadreburgossouthernleyteinc/). 2013-2019. 📎file
 
 ## Languages <a name="languages"></a> 🗨️
