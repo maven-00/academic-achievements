@@ -28,19 +28,19 @@ Below is a list of _technologies_ that I _aim to learn_. `Finished courses` will
 
 #### Linux
 
-- Terminal, Bash, and Vim Essentials. _[Amigoscode](https://app.amigoscode.com/). Duration: 2.5h._ [📎file](https://app.amigoscode.com/courses/855076/certificate)
+- Terminal, Bash, and Vim Essentials. _[Amigoscode](https://app.amigoscode.com/). Duration: 2.5h._ [📎file](certificates/certificate-of-completion-for-terminal-bash-vim-essentials.pdf)
 
 #### Git
 
-- Git and GitHub Essentials. _[Amigoscode](https://app.amigoscode.com/). Duration: 2.5h._ [📎file](https://app.amigoscode.com/courses/1317178/certificate)
+- Git and GitHub Essentials. _[Amigoscode](https://app.amigoscode.com/). Duration: 2.5h._ [📎file](certificates/certificate-of-completion-for-git-and-github-essentials.pdf)
 
 #### Java
 
-- Java for Beginners. _[Amigoscode](https://app.amigoscode.com/). Duration: 4h._ [📎file](https://app.amigoscode.com/courses/1120384/certificate)
+- Java for Beginners. _[Amigoscode](https://app.amigoscode.com/). Duration: 4h._ [📎file](certificates/certificate-of-completion-for-getting-started-with-java.pdf)
 
 #### Spring
 
-- Spring Boot for Beginners. _[Amigoscode](https://app.amigoscode.com/). Duration: 2.5h._ [📎file](https://app.amigoscode.com/courses/267273/certificate)
+- Spring Boot for Beginners. _[Amigoscode](https://app.amigoscode.com/). Duration: 2.5h._ [📎file](certificates/certificate-of-completion-for-getting-started-with-spring-boot.pdf)
 
 #### Microservices with Spring Boot
 
